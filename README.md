@@ -20,19 +20,6 @@ This folder contains code and scripts for using large language models (LLMs) in 
 
     - Script for generating plots and statistics for evaluations of all LLMs.
 
-  - **analyse_LLMs_responses.ipynb**
+  - **analyse_each_LLM_responses.ipynb**
 
-    - Script for analyzing the responses of each LLM.
-
-  - **one_LLM_plots_and_statistics.ipynb**
-
-    - Script for generating plots and statistics for a single LLM.
-
-  - **statistics_plots_analysis_utils.py**
-
-    - Utility functions for generating plots and analyzing statistics.
-
-## Files
-
-- **llm_evaluation_utils.py**
-  - Utility functions for LLM evaluation.
+    - Script for generating plots and statistics for a single LLM responses.
